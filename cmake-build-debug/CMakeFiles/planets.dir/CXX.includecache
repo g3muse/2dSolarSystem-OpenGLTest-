@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/g3muse/CLionProjects/planets/main.cpp
+iostream
+-
+math.h
+-
+GL/glut.h
+-
+
+/Users/g3muse/Documents/OpenGL Libraries/include/GL/glut.h
+windows.h
+-
+stdlib.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+
