@@ -1,9 +1,3 @@
-/*
- * David Anderson
- * SER 332/ 1630
- * Quiz 1
- */
-
 #include <iostream>
 #include <math.h>
 #include <GL/glut.h>
